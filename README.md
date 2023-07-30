@@ -16,6 +16,7 @@ Key Features:
 
 
 Best Coding Languages:
+
 The best coding languages for this project would include Python and JavaScript. Python can be used for the backend to perform complex calculations and generate the budgeting plan. JavaScript can be used for the frontend to provide a user-friendly and interactive interface for users to input their financial details.
 
 
@@ -29,6 +30,7 @@ Basic Workflow:
 
 
 Basic I/O Details:
+
 spearmint will have a user interface where users can input their financial data and preferences. The program will then process this information and generate the personalized budgeting plan. The output will be presented to the user through the same user interface, allowing them to review and modify the budget as needed.
 
 The backend will handle the data processing and calculations, while the frontend will display the results and enable user interaction. Data security measures, such as encryption and secure storage, will be implemented to protect user financial information.

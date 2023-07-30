@@ -1,6 +1,8 @@
 # spearmint
 
-spearmint is a program that creates a custom, personalized budgeting plan for users based on their inputted context variables, financial goals, and preferences. By considering factors such as total annual net household revenue, state of residence or employment, tax liability (as a % of total household income), tax deductibles and withholdings, cost of living, and more, spearmint will calculate the user's take-home pay and create a comprehensive budgeting plan tailored to their financial situation. The program will leverage American graduated tax brackets and relevant financial regulations to ensure accurate calculations and provide users with actionable financial insights.
+spearmint is a program that creates a custom, personalized budgeting plan for users based on their inputted context variables, financial goals, and preferences. By considering factors such as total annual net household revenue, state of residence or employment, tax liability (as a % of total household income), tax deductibles and withholdings, cost of living, and more, spearmint will calculate the user's take-home pay and create a comprehensive budgeting plan tailored to their financial situation. 
+
+The program will leverage American graduated tax brackets and relevant financial regulations to ensure accurate calculations and provide users with actionable financial insights.
 
 
 Key Features:
